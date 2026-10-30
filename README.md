@@ -1,9 +1,21 @@
 ### Hi, welcome to my GitHub 👋
 
-Web developer focused on **PHP / Symfony** on the back end and **Angular / TypeScript** on the front end.
-I like building complete, tested applications and putting them online.
+I am a junior web developer trained at **CFITECH** (Belgium, 2025), looking for my first developer job.
+I work mainly with **PHP / Symfony** on the back end and **Angular / TypeScript** on the front end, and I like building complete, tested applications and putting them online.
 
-*Développeur web : Symfony côté serveur, Angular côté interface.*
+*Développeur web junior formé au CFITECH : Symfony côté serveur, Angular côté interface.*
+
+## 🧭 My path
+
+My training went from the foundations to the frameworks, one step at a time:
+
+1. **Foundations**: algorithms in pseudo-code, the command line, Git and GitHub.
+2. **The web**: HTML, CSS, Bootstrap, then JavaScript up to classes and the DOM.
+3. **PHP and databases**: PHP from the basics to object-oriented code and PDO, MySQL, data modelling with Merise and UML.
+4. **Other languages**: Java (OOP, collections, streams, JDBC, JPA, Maven), JSON, a first look at Python.
+5. **Frameworks**: Symfony (Doctrine, forms, security, API Platform with JWT), Angular (services, pipes, reactive forms, unit and integration tests) and React (components, props, state).
+
+Each project below started from a course exercise that I rebuilt and took further: tests, security, deployment.
 
 ## 🚀 Projects
 
@@ -16,6 +28,11 @@ I like building complete, tested applications and putting them online.
 
 ## 🛠️ Skills
 
-- **Back end:** PHP, Symfony, Doctrine ORM, MySQL, REST/JSON, Twig
-- **Front end:** Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap
-- **Quality & tools:** PHPUnit, Vitest, Git, GitHub Actions, responsive design, accessibility
+| | |
+|---|---|
+| **Back end** | PHP (OOP, PDO), Symfony, Doctrine ORM, Twig, REST APIs with API Platform and JWT |
+| **Front end** | Angular, TypeScript, JavaScript, React (basics), HTML, CSS, SASS, Bootstrap |
+| **Databases** | MySQL (joins, foreign keys, privileges, stored procedures), SQLite, Merise (MCD, MLD), UML use cases |
+| **Other languages** | Java (OOP, collections, streams, JDBC, JPA, Maven), Python (basics), JSON |
+| **Quality** | PHPUnit, Angular unit and integration tests, Vitest, code coverage, responsive design, accessibility |
+| **Tools** | Git, GitHub Actions, Composer, npm, Vite, Postman, WAMP, VS Code |
