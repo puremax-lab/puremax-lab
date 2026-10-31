@@ -24,6 +24,7 @@ Each project below started from a course exercise that I rebuilt and took furthe
 | **🍲 RecetteVie** | Bilingual recipe-sharing website: accounts, permissions, photo upload, DeepL translation | Symfony 7.4, Doctrine, MySQL, Twig, Bootstrap | [Live demo](https://puremax-lab.alwaysdata.net/recettevie) · [Code](https://github.com/puremax-lab/RecetteVie) |
 | **✓ SuiviFormation** | Training attendance tracker: sessions, trainees, one-click attendance, dashboard | Angular 22, TypeScript, signals, Vitest | [Live demo](https://puremax-lab.github.io/SuiviFormation/) · [Code](https://github.com/puremax-lab/SuiviFormation) |
 | **✈ Escales** | Travel journal: members note the cities they visited, with ratings and reviews | Plain PHP (no framework), PDO, MySQL, PHPUnit | [Live demo](https://puremax-lab.alwaysdata.net/escales) · [Code](https://github.com/puremax-lab/Escales) |
+| **🗓 Semainier** | Weekly meal planner with an automatic shopping list, using the RecetteVie API with a JWT login | React 19, Vite, Vitest, API Platform | [Live demo](https://puremax-lab.alwaysdata.net/semainier) · [Code](https://github.com/puremax-lab/Semainier) |
 | **🦖 Figurama** | Online shop for collectible figurines: catalogue, cart, Stripe payment, verified reviews, back office | Symfony 7.4, Doctrine, SQLite, Stripe, Bootstrap | [Live demo](https://puremax-lab.alwaysdata.net/figurama) · [Code](https://github.com/puremax-lab/Figurama) |
 
 ## 🛠️ Skills
@@ -31,7 +32,7 @@ Each project below started from a course exercise that I rebuilt and took furthe
 | | |
 |---|---|
 | **Back end** | PHP (OOP, PDO), Symfony, Doctrine ORM, Twig, REST APIs with API Platform and JWT |
-| **Front end** | Angular, TypeScript, JavaScript, React (basics), HTML, CSS, SASS, Bootstrap |
+| **Front end** | Angular, TypeScript, React, JavaScript, HTML, CSS, SASS, Bootstrap |
 | **Databases** | MySQL (joins, foreign keys, privileges, stored procedures), SQLite, Merise (MCD, MLD), UML use cases |
 | **Other languages** | Java (OOP, collections, streams, JDBC, JPA, Maven), Python (basics), JSON |
 | **Quality** | PHPUnit, Angular unit and integration tests, Vitest, code coverage, responsive design, accessibility |
