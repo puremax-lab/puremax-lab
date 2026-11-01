@@ -44,3 +44,5 @@ Each project started from an exercise of my training, that I rebuilt and took mu
 A web developer training at **CFITECH** (Belgium, 2025), from algorithms to frameworks: HTML and JavaScript, PHP and MySQL, Java, then Symfony, Angular and React. Since then I have kept building, and every project here goes beyond what the course asked.
 
 **Open to a junior full-stack, PHP / Symfony or front-end (Angular, React) position.**
+
+**Let's talk:** [LinkedIn](https://www.linkedin.com/in/maxime-youta-1298a2375/)
