@@ -1,39 +1,46 @@
-### Hi, welcome to my GitHub 👋
+## Hi, I'm puremax-lab: a full-stack web developer who ships
 
-I am a junior web developer trained at **CFITECH** (Belgium, 2025), looking for my first developer job.
-I work mainly with **PHP / Symfony** on the back end and **Angular / TypeScript** on the front end, and I like building complete, tested applications and putting them online.
+I build complete web applications with **Symfony** on the back end and **Angular or React** on the front end, and I take them all the way: tests, security, continuous integration and deployment.
 
-*Développeur web junior formé au CFITECH : Symfony côté serveur, Angular côté interface.*
+**5 applications online · 200+ automated tests · every project tested on each push with GitHub Actions**
 
-## 🧭 My path
+*Développeur web full-stack junior (Symfony, Angular, React), formé au CFITECH en 2025. Je cherche mon premier poste de développeur.*
 
-My training went from the foundations to the frameworks, one step at a time:
+---
 
-1. **Foundations**: algorithms in pseudo-code, the command line, Git and GitHub.
-2. **The web**: HTML, CSS, Bootstrap, then JavaScript up to classes and the DOM.
-3. **PHP and databases**: PHP from the basics to object-oriented code and PDO, MySQL, data modelling with Merise and UML.
-4. **Other languages**: Java (OOP, collections, streams, JDBC, JPA, Maven), JSON, a first look at Python.
-5. **Frameworks**: Symfony (Doctrine, forms, security, API Platform with JWT), Angular (services, pipes, reactive forms, unit and integration tests) and React (components, props, state).
+### What I can bring to a team
 
-Each project below started from a course exercise that I rebuilt and took further: tests, security, deployment.
+- **Back ends that are safe by default**: permissions with voters, CSRF tokens, login throttling, hashed passwords, prepared statements and escaped output. In [Escales](https://github.com/puremax-lab/Escales) I wrote all of it by hand, without a framework, to understand what Symfony does for me.
+- **APIs and the front ends that use them**: a REST API with API Platform and JWT in [RecetteVie](https://github.com/puremax-lab/RecetteVie), used by a separate React app, [Semainier](https://github.com/puremax-lab/Semainier).
+- **Real business logic**: Stripe payment with signed webhooks, and stock reserved inside a database transaction so two customers cannot buy the last item ([Figurama](https://github.com/puremax-lab/Figurama)). External API calls with error handling (DeepL translation in RecetteVie).
+- **Code that is tested and deployed**: PHPUnit, Vitest and Testing Library, a CI pipeline on every repository, and every app live on the web for you to try.
+- **Care for the user**: responsive layouts, accessible forms, two languages in RecetteVie, and READMEs a teammate can follow.
 
-## 🚀 Projects
+### Projects
 
-| Project | What it is | Stack | Links |
+| | What it is | Built with | |
 |---|---|---|---|
-| **🍲 RecetteVie** | Bilingual recipe-sharing website: accounts, permissions, photo upload, DeepL translation | Symfony 7.4, Doctrine, MySQL, Twig, Bootstrap | [Live demo](https://puremax-lab.alwaysdata.net/recettevie) · [Code](https://github.com/puremax-lab/RecetteVie) |
-| **✓ SuiviFormation** | Training attendance tracker: sessions, trainees, one-click attendance, dashboard | Angular 22, TypeScript, signals, Vitest | [Live demo](https://puremax-lab.github.io/SuiviFormation/) · [Code](https://github.com/puremax-lab/SuiviFormation) |
-| **✈ Escales** | Travel journal: members note the cities they visited, with ratings and reviews | Plain PHP (no framework), PDO, MySQL, PHPUnit | [Live demo](https://puremax-lab.alwaysdata.net/escales) · [Code](https://github.com/puremax-lab/Escales) |
-| **🗓 Semainier** | Weekly meal planner with an automatic shopping list, using the RecetteVie API with a JWT login | React 19, Vite, Vitest, API Platform | [Live demo](https://puremax-lab.alwaysdata.net/semainier) · [Code](https://github.com/puremax-lab/Semainier) |
-| **🦖 Figurama** | Online shop for collectible figurines: catalogue, cart, Stripe payment, verified reviews, back office | Symfony 7.4, Doctrine, SQLite, Stripe, Bootstrap | [Live demo](https://puremax-lab.alwaysdata.net/figurama) · [Code](https://github.com/puremax-lab/Figurama) |
+| **[RecetteVie](https://github.com/puremax-lab/RecetteVie)** | Bilingual recipe website: accounts, roles, photo upload, automatic DeepL translation, and a REST API | Symfony 7.4, Doctrine, MySQL, API Platform, JWT | [Live](https://puremax-lab.alwaysdata.net/recettevie) |
+| **[Semainier](https://github.com/puremax-lab/Semainier)** | Weekly meal planner with an automatic shopping list, on top of the RecetteVie API | React 19, Vite, Vitest | [Live](https://puremax-lab.alwaysdata.net/semainier) |
+| **[Figurama](https://github.com/puremax-lab/Figurama)** | Online shop: catalogue, cart, Stripe checkout, order life cycle, verified reviews, back office | Symfony 7.4, Doctrine, Stripe | [Live](https://puremax-lab.alwaysdata.net/figurama) |
+| **[SuiviFormation](https://github.com/puremax-lab/SuiviFormation)** | Training attendance tracker with two roles, dashboards and one-click attendance | Angular 22, TypeScript, signals | [Live](https://puremax-lab.github.io/SuiviFormation/) |
+| **[Escales](https://github.com/puremax-lab/Escales)** | Travel journal written in plain PHP: my own router, MVC structure and security layer | PHP 8.3, PDO, MySQL / SQLite | [Live](https://puremax-lab.alwaysdata.net/escales) |
 
-## 🛠️ Skills
+Each project started from an exercise of my training, that I rebuilt and took much further.
+
+### Skills
 
 | | |
 |---|---|
-| **Back end** | PHP (OOP, PDO), Symfony, Doctrine ORM, Twig, REST APIs with API Platform and JWT |
-| **Front end** | Angular, TypeScript, React, JavaScript, HTML, CSS, SASS, Bootstrap |
-| **Databases** | MySQL (joins, foreign keys, privileges, stored procedures), SQLite, Merise (MCD, MLD), UML use cases |
-| **Other languages** | Java (OOP, collections, streams, JDBC, JPA, Maven), Python (basics), JSON |
-| **Quality** | PHPUnit, Angular unit and integration tests, Vitest, code coverage, responsive design, accessibility |
-| **Tools** | Git, GitHub Actions, Composer, npm, Vite, Postman, WAMP, VS Code |
+| **Back end** | PHP 8 (OOP), Symfony, Doctrine ORM, Twig, REST APIs with API Platform, JWT authentication |
+| **Front end** | Angular, React, TypeScript, JavaScript, HTML, CSS, SASS, Bootstrap |
+| **Data** | MySQL and SQLite: joins, constraints, transactions, stored procedures, user privileges. Data modelling with Merise and UML |
+| **Quality** | PHPUnit, Vitest, Testing Library, Angular unit and integration tests, code coverage, accessibility |
+| **Delivery** | Git, GitHub Actions, Composer, npm, Vite, Linux servers over SSH, Postman |
+| **Also learned** | Java (OOP, collections, streams, JDBC, JPA, Maven), Python basics |
+
+### How I learned
+
+A web developer training at **CFITECH** (Belgium, 2025), from algorithms to frameworks: HTML and JavaScript, PHP and MySQL, Java, then Symfony, Angular and React. Since then I have kept building, and every project here goes beyond what the course asked.
+
+**Open to a junior full-stack, PHP / Symfony or front-end (Angular, React) position.**
