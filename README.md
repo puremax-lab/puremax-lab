@@ -37,11 +37,11 @@ Each project started from an exercise of my training, that I rebuilt and took mu
 | **Data** | MySQL and SQLite: joins, constraints, transactions, stored procedures, user privileges. Data modelling with Merise and UML |
 | **Quality** | PHPUnit, Vitest, Testing Library, Angular unit and integration tests, code coverage, accessibility |
 | **Delivery** | Git, GitHub Actions, Composer, npm, Vite, Linux servers over SSH, Postman |
-| **Also learned** | Java (OOP, collections, streams, JDBC, JPA, Maven), Python basics |
+| **Also learned** | Java (OOP, collections, streams, JDBC, JPA, Maven, Spring Boot), Python basics |
 
 ### How I learned
 
-A web developer training at **CFITECH** (Belgium, 2025), from algorithms to frameworks: HTML and JavaScript, PHP and MySQL, Java, then Symfony, Angular and React. Since then I have kept building, and every project here goes beyond what the course asked.
+**Web Developer Certificate** from **CFITECH** (Brussels, 2025, with Bruxelles Formation): **1,332 hours** from algorithms to frameworks, HTML and JavaScript, PHP and MySQL, Java and Spring Boot, then Symfony, Angular and React, ending with a full-stack final project and a company internship. Since then I have kept building, and every project here goes beyond what the course asked.
 
 **Open to a junior full-stack, PHP / Symfony or front-end (Angular, React) position.**
 
