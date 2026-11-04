@@ -1,4 +1,4 @@
-## Hi, I'm puremax-lab: a full-stack web developer who ships
+## Hi, I'm Maxime: a full-stack web developer who ships
 
 I build complete web applications with **Symfony** on the back end and **Angular or React** on the front end, and I take them all the way: tests, security, continuous integration and deployment.
 
@@ -27,6 +27,10 @@ I build complete web applications with **Symfony** on the back end and **Angular
 | **[Escales](https://github.com/puremax-lab/Escales)** | Travel journal written in plain PHP: my own router, MVC structure and security layer | PHP 8.3, PDO, MySQL / SQLite | [Live](https://puremax-lab.alwaysdata.net/escales) |
 
 Each project started from an exercise of my training, that I rebuilt and took much further.
+
+### Client work
+
+**[Église Le Rocher](https://eglise-evangelique-bruxelles.be)**: the official website of a church in Brussels, built with one other developer (React 19, TypeScript, Django REST, Docker). My part, 156 commits: responsive pages and carousels, admin screens, automatic image compression on upload, Excel export of registrations, and production fixes. The code is in a private repository.
 
 ### Skills
 
