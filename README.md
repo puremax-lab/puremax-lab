@@ -2,7 +2,7 @@
 
 I build complete web applications with **Symfony** on the back end and **Angular or React** on the front end, and I take them all the way: tests, security, continuous integration and deployment.
 
-**5 applications online · 200+ automated tests · every project tested on each push with GitHub Actions**
+**5 applications online · 300+ automated tests · every project tested on each push with GitHub Actions**
 
 *Développeur web full-stack junior (Symfony, Angular, React), formé au CFITECH en 2025. Je cherche mon premier poste de développeur.*
 
@@ -14,7 +14,7 @@ I build complete web applications with **Symfony** on the back end and **Angular
 - **APIs and the front ends that use them**: a REST API with API Platform and JWT in [RecetteVie](https://github.com/puremax-lab/RecetteVie), used by a separate React app, [Semainier](https://github.com/puremax-lab/Semainier).
 - **Real business logic**: Stripe payment with signed webhooks, and stock reserved inside a database transaction so two customers cannot buy the last item ([Figurama](https://github.com/puremax-lab/Figurama)). External API calls with error handling (DeepL translation in RecetteVie).
 - **Code that is tested and deployed**: PHPUnit, Vitest and Testing Library, a CI pipeline on every repository, and every app live on the web for you to try.
-- **Care for the user**: responsive layouts, accessible forms, two languages in RecetteVie, and READMEs a teammate can follow.
+- **Care for the user**: responsive layouts, accessible forms, French and English on every site, and READMEs a teammate can follow.
 
 ### Projects
 
