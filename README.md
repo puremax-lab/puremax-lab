@@ -4,7 +4,7 @@ I build complete web applications with **Symfony** on the back end and **Angular
 
 **[See my portfolio](https://puremax-lab.github.io/)**
 
-**5 applications online · 300+ automated tests · every project tested on each push with GitHub Actions**
+**5 applications and 1 client site online · 300+ automated tests · every project tested on each push with GitHub Actions**
 
 *Développeur web full-stack junior (Symfony, Angular, React), formé au CFITECH en 2025. Je cherche mon premier poste de développeur.*
 
