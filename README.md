@@ -2,6 +2,8 @@
 
 I build complete web applications with **Symfony** on the back end and **Angular or React** on the front end, and I take them all the way: tests, security, continuous integration and deployment.
 
+**[See my portfolio](https://puremax-lab.github.io/)**
+
 **5 applications online · 300+ automated tests · every project tested on each push with GitHub Actions**
 
 *Développeur web full-stack junior (Symfony, Angular, React), formé au CFITECH en 2025. Je cherche mon premier poste de développeur.*
@@ -49,4 +51,4 @@ Each project started from an exercise of my training, that I rebuilt and took mu
 
 **Open to a junior full-stack, PHP / Symfony or front-end (Angular, React) position.**
 
-**Let's talk:** [LinkedIn](https://www.linkedin.com/in/maxime-youta-1298a2375/)
+**Let's talk:** [Portfolio](https://puremax-lab.github.io/) · [LinkedIn](https://www.linkedin.com/in/maxime-youta-1298a2375/)
